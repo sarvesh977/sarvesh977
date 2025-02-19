@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sarvesh977
-- 👀 I’m interested in Data scientist and Machine Learning 
   
 
 <!---
